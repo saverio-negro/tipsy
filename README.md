@@ -1,6 +1,6 @@
 # Tipsy
 
-<img src="./BMI Calculator/Assets.xcassets/AppIcon.appiconset/1024.png" width="25%" height="25%"/>
+<img src="./Tipsy/Assets.xcassets/AppIcon.appiconset/1024.png" width="25%" height="25%"/>
 
 ### Know how much to pay on the go with Tipsy - your bill calculator app.
 
